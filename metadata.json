@@ -1,0 +1,6 @@
+{
+  "name": "FlowAI",
+  "description": "AI Copilot for Project Management, a premium enterprise SaaS workspace that detects risks, analyzes workloads, and automates reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
